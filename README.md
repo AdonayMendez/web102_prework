@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='https://drive.google.com/file/d/15oFFYtOQ5g3tRjDkB7vKzOmRT5tCUwAP/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://img.icons8.com/fluency/96/video.png)](https://drive.google.com/file/d/15oFFYtOQ5g3tRjDkB7vKzOmRT5tCUwAP/view?usp=sharing)
 
 <!-- Replace this with whatever GIF tool you used! -->
 Created with Windows 11 Snipping Tool
